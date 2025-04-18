@@ -64,7 +64,7 @@ The dataset contains 5 interconnected tables:
 
 ### 📣 Channel Effectiveness:
 - Direct channels generated over $23M in revenue.
-- Adwords and Facebook followed with over $20M+ each.  (
+- Adwords and Facebook followed with over $20M+ each.  (https://github.com/Oyinlola-Kayode/parch-and-posey-sql-powerbi-analysis/blob/Parch_and_Posey/images/Parch_and_Posey%20Image%202.png)
 
 ### 🌐 Customer Engagement:
 - Peak web activity occurred in 2015, declining slightly after.
