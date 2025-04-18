@@ -55,20 +55,20 @@ The dataset contains 5 interconnected tables:
 
 ### 💼 Top Sales Reps by Revenue:
 - Earlie Schleusner led with over $1.09 million.
-- Followed closely by Tia Amato and Vernita Plump.
+- Followed closely by Tia Amato and Vernita Plump.(https://github.com/Oyinlola-Kayode/parch-and-posey-sql-powerbi-analysis/blob/Parch_and_Posey/images/Parch_and_Posey%20Image.png)
 
 ### 🏢 Top Accounts by Sales:
 - EOG Resources – $382,873  
 - Mosaic – $345,619  
-- IBM – $326,819  
+- IBM – $326,819  (https://github.com/Oyinlola-Kayode/parch-and-posey-sql-powerbi-analysis/blob/Parch_and_Posey/images/Parch_and_Posey%20Image.png)  
 
 ### 📣 Channel Effectiveness:
 - Direct channels generated over $23M in revenue.
-- Adwords and Facebook followed with over $20M+ each.
+- Adwords and Facebook followed with over $20M+ each.  (
 
 ### 🌐 Customer Engagement:
 - Peak web activity occurred in 2015, declining slightly after.
-- Most interactions occurred in the Morning and Night.
+- Most interactions occurred in the Morning and Night.  (https://github.com/Oyinlola-Kayode/parch-and-posey-sql-powerbi-analysis/blob/Parch_and_Posey/images/Parch_and_Posey%20Image.png)
 
 ---
 
